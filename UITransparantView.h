@@ -29,6 +29,4 @@
  */
 @interface UITransparantView : UIView
 
-- (id)initWithFrame:(CGRect)frame;
-
 @end
