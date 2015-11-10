@@ -12,5 +12,5 @@ Implemented by John Stephen, for more details, check http://stackoverflow.com/qu
 
 I just cannot stop sharing it for such a great piece of code.
 
-3D Touch on iOS 9 attention:
+# 3D Touch on iOS 9 attention:
 seems 3D Touch had different implementation, be careful if you enable allowMoving, the gesture won't ended, still under investigation.
