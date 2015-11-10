@@ -11,3 +11,6 @@ There are plenty of ways to make use of it, as long as you get the point how `po
 Implemented by John Stephen, for more details, check http://stackoverflow.com/questions/3046813/how-can-i-click-a-button-behind-a-transparent-uiview
 
 I just cannot stop sharing it for such a great piece of code.
+
+3D Touch on iOS 9 attention:
+seems 3D Touch had different implementation, be careful if you enable allowMoving, the gesture won't ended, still under investigation.
